@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: gullalasahithi/sav:v1
+        image: gullalasahithi/sav:v2
         ports:
         - containerPort: 3000   # Use port 3000
 
